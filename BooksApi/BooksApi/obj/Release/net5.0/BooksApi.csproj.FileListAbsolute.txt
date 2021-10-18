@@ -1,0 +1,8 @@
+C:\Users\SAILS-DM87\source\repos\BooksApi\BooksApi\obj\Release\net5.0\BooksApi.csproj.AssemblyReference.cache
+C:\Users\SAILS-DM87\source\repos\BooksApi\BooksApi\obj\Release\net5.0\BooksApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAILS-DM87\source\repos\BooksApi\BooksApi\obj\Release\net5.0\BooksApi.AssemblyInfoInputs.cache
+C:\Users\SAILS-DM87\source\repos\BooksApi\BooksApi\obj\Release\net5.0\BooksApi.AssemblyInfo.cs
+C:\Users\SAILS-DM87\source\repos\BooksApi\BooksApi\obj\Release\net5.0\BooksApi.csproj.CoreCompileInputs.cache
+C:\Users\SAILS-DM87\source\repos\BooksApi\BooksApi\obj\Release\net5.0\BooksApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SAILS-DM87\source\repos\BooksApi\BooksApi\obj\Release\net5.0\BooksApi.RazorAssemblyInfo.cache
+C:\Users\SAILS-DM87\source\repos\BooksApi\BooksApi\obj\Release\net5.0\BooksApi.RazorAssemblyInfo.cs
