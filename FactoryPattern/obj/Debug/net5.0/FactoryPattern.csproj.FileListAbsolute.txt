@@ -1,0 +1,5 @@
+C:\Users\SAILS-DM104\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.csproj.AssemblyReference.cache
+C:\Users\SAILS-DM104\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAILS-DM104\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\SAILS-DM104\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.AssemblyInfo.cs
+C:\Users\SAILS-DM104\source\repos\FactoryPattern\FactoryPattern\obj\Debug\net5.0\FactoryPattern.csproj.CoreCompileInputs.cache
